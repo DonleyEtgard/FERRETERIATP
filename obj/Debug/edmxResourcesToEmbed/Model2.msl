@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FERRETERIAModel1StoreContainer" CdmEntityContainer="FERRETERIAEntitidad2">
+    <EntitySetMapping Name="PROVEEDOR">
+      <EntityTypeMapping TypeName="FERRETERIAModel1.PROVEEDOR">
+        <MappingFragment StoreEntitySet="PROVEEDOR">
+          <ScalarProperty Name="PROVEEDORID" ColumnName="PROVEEDORID" />
+          <ScalarProperty Name="PROVEEDOR1" ColumnName="PROVEEDOR" />
+          <ScalarProperty Name="PRODUCTOID" ColumnName="PRODUCTOID" />
+          <ScalarProperty Name="TELEFONO" ColumnName="TELEFONO" />
+          <ScalarProperty Name="DIRECCION" ColumnName="DIRECCION" />
+          <ScalarProperty Name="FECHAENTREGA" ColumnName="FECHAENTREGA" />
+          <ScalarProperty Name="TOTALCOMPRADO" ColumnName="TOTALCOMPRADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

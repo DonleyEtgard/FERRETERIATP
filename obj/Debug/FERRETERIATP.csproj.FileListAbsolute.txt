@@ -1,0 +1,17 @@
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\bin\Debug\FERRETERIATP.exe.config
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\bin\Debug\FERRETERIATP.exe
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\bin\Debug\FERRETERIATP.pdb
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\bin\Debug\EntityFramework.dll
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\bin\Debug\EntityFramework.xml
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.csproj.AssemblyReference.cache
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.FrmFerreteria.resources
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.Properties.Resources.resources
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.TABLAS.FrmProductos.resources
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.TABLAS.FrmProveedores.resources
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.csproj.GenerateResource.cache
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.csproj.CoreCompileInputs.cache
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETER.7E9FBE0E.Up2Date
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.exe
+C:\Users\donle\source\repos\FERRETERIATP\FERRETERIATP\obj\Debug\FERRETERIATP.pdb

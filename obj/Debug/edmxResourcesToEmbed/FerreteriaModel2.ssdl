@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FERRETERIAModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PROVEEDORES">
+    <Key>
+      <PropertyRef Name="PROVEEDORID" />
+    </Key>
+    <Property Name="PROVEEDOR" Type="varchar" MaxLength="80" />
+    <Property Name="PROVEEDORID" Type="int" Nullable="false" />
+    <Property Name="PRODUCTOID" Type="int" />
+    <Property Name="TELEFONO" Type="varchar" MaxLength="15" />
+    <Property Name="DIRECCION" Type="varchar" MaxLength="80" />
+    <Property Name="FECHAENTREGA" Type="datetime" />
+    <Property Name="TOTALCOMPRADO" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityContainer Name="FERRETERIAModel1StoreContainer">
+    <EntitySet Name="PROVEEDORES" EntityType="Self.PROVEEDORES" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
